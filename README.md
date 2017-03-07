@@ -1,6 +1,6 @@
-# RFSVShift #
+# RFSV-Shift #
 
-Radio Frequency Scan Value Adjust (RFSVShift): A simple program for shifting RF Scan values from a .sdb2 data-file by an arbitrary value.
+Radio Frequency Scan Value Shift (RFSV-Shift): A simple program for shifting RF Scan values from a .sdb2 data-file by an arbitrary value.
 
 ### What is this repository for? ###
 
