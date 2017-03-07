@@ -70,7 +70,6 @@ def main(args):
     print "Press ENTER to continue..."
     raw_input()
     exit()
-        
 
 def errorPrint(message, standardErr = ""):
     print "\n\n"
