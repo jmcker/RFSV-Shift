@@ -84,7 +84,7 @@ def errorPrint(message, standardErr = ""):
 def getUserFilepath():
     Tk().withdraw() # Prevents full GUI
     filetypes = [('all files', '.*'), ('Shure WWB DB Files', '.sdb2')]
-    filepath = askopenfilename(filetypes = filetypes, multiple = False, title = "Select the RF Scan file to be adjusted...")
+    filepath = askopenfilename(filetypes = filetypes, multiple = False, title = "Select the RF Scan file to be shifted...")
     return filepath
 
 if __name__ == "__main__":
