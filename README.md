@@ -14,5 +14,5 @@ Example:
 ```
 #!python
 
-python rfsv_shift C:\Users\example\Documents\scan1.sdb2 -10
+python rfsv_shift "C:\Users\example\Documents\scan1.sdb2" -10
 ```
