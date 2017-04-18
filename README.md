@@ -9,6 +9,7 @@ Radio Frequency Scan Value Shift (RFSV-Shift): A simple program for shifting RF 
 
 * The default shift is -50.
 * It expects a file path as the first argument and an optional shift value as the second.
+* If a file path is not provided, a file dialog will prompt selection of a Shure scan file.
 
 Example usage: 
 ```
