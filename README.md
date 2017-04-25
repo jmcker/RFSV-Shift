@@ -11,8 +11,9 @@ v1.0
 * If a file path is not provided, a file dialog will prompt selection of a scan file.
 
 Example usage: 
-```
-#!python
-
+```python
 python rfsv_shift.py "C:\Users\example\Documents\scan1.sdb2" -10
 ```
+### Contact ###
+* Jack McKernan
+* [jmcker@outlook.com](mailto:jmcker@outlook.com)
