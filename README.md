@@ -13,5 +13,15 @@ Example usage:
 ```python
 python rfsv_shift.py "C:\Users\example\Documents\scan1.sdb2" -10
 ```
+
+### Limitations ###
+During calibration and comparison with scans from a Shure QLX receiver, I found -50dB to be an appropriate adjustment for the system I had available.
+
+With only limited access to Shure scanning equipment and only a sliver of the spectrum to compare to, however, I cannot guarantee that this value will be correct for everyone. With factors like RTL-SDR gain, FFT size, different capture programs, etc., the necessary shift for any one system could vary.
+
+Though -50 may not completely accurate, I'm confident that for most systems it would be in a range close enough to work in WWB6 (my guess would be +/- 10 dB at the most).
+
+With adjustment of the "Exclusion Threshold" parameter in WWB6 and refined adjustment of the shift value based on the individual system, this program should be able to make most measurement usable with WWB6.
+
 ### Contact ###
 Jack McKernan ([jmcker@outlook.com](mailto:jmcker@outlook.com))
