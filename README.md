@@ -23,5 +23,8 @@ Though -50 may not completely accurate, I'm confident that for most systems it w
 
 With adjustment of the "Exclusion Threshold" parameter in WWB6 and refined adjustment of the shift value based on the individual system, this program should be able to make most measurement usable with WWB6.
 
+### System Requirements ###
+Python 2.7 (available [here](https://www.python.org/ftp/python/2.7.14/python-2.7.14rc1.amd64.msi) for 64-bit Windows or [here](https://www.python.org/ftp/python/2.7.14/python-2.7.14rc1.msi) for 32-bit Windows)
+
 ### Contact ###
 Jack McKernan ([jmcker@outlook.com](mailto:jmcker@outlook.com))
