@@ -15,5 +15,4 @@ Example usage:
 python rfsv_shift.py "C:\Users\example\Documents\scan1.sdb2" -10
 ```
 ### Contact ###
-* Jack McKernan
-* [jmcker@outlook.com](mailto:jmcker@outlook.com)
+Jack McKernan ([jmcker@outlook.com](mailto:jmcker@outlook.com))
