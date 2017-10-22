@@ -15,7 +15,7 @@ def main(args):
     print "----------------------------------------------------------------"
     print
 
-    if (len(args) < 1):
+    if len(args) < 1:
         args = [getUserFilepath()]
     elif len(args) > 1:
         ADJUST_LEVEL = args[1]
