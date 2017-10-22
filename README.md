@@ -11,6 +11,7 @@ I needed to import RF scan data from an RTL-SDR scanner into WWB6, but the scann
 
 Example usage: 
 ```python
+python rfsv_shift.py
 python rfsv_shift.py "C:\Users\example\Documents\scan1.sdb2" -10
 ```
 
